@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pyGJR9X9FsUJk6WfXFPOc9aENi0ICZT5Ev9v0f+BS1v/il7Kol9NH0PTegBcPEhtuQnX9+K4mYruyAM5oVyLag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oguzh\\OneDrive\\Masaüstü\\c# for uygulaması\\kitap dersi\\kitap dersi\\bilgiledirme formu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oguzh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\bin\Debug\netcoreapp3.1\kitap dersi.exe
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\bin\Debug\netcoreapp3.1\kitap dersi.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\bin\Debug\netcoreapp3.1\kitap dersi.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\bin\Debug\netcoreapp3.1\kitap dersi.runtimeconfig.dev.json
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\bin\Debug\netcoreapp3.1\kitap dersi.dll
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\bin\Debug\netcoreapp3.1\kitap dersi.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\obj\Debug\netcoreapp3.1\kitap dersi.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\obj\Debug\netcoreapp3.1\kitap_dersi.Form1.resources
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\obj\Debug\netcoreapp3.1\kitap dersi.csproj.GenerateResource.cache
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\obj\Debug\netcoreapp3.1\kitap dersi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\obj\Debug\netcoreapp3.1\kitap dersi.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\obj\Debug\netcoreapp3.1\kitap dersi.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\obj\Debug\netcoreapp3.1\kitap dersi.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\obj\Debug\netcoreapp3.1\kitap dersi.dll
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\obj\Debug\netcoreapp3.1\kitap dersi.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\c# for uygulaması\kitap dersi\kitap dersi\obj\Debug\netcoreapp3.1\kitap dersi.genruntimeconfig.cache
